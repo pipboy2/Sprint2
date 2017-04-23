@@ -8,7 +8,7 @@ namespace TheAionProject
 {
     /// <summary>
     /// view class
-    /// </summary>
+    /// </summarys>
     public class ConsoleView
     {
         #region ENUMS
